@@ -1,4 +1,4 @@
-# Colorado Avalanche Shots
+# Cale Makar Shots and Goals Heat maps
 
 Creating data visualizations for the Colorado Avalanches Shots
 
