@@ -1,6 +1,6 @@
 # Cale Makar Shots and Goals Heat maps
 
-Creating data visualizations for the Colorado Avalanches Shots
+Creating data visualizations for Cale Makar's 2024 season Shots
 
 ![Makar Shots](plots/Makar_Shot_Density.jpg)
 
